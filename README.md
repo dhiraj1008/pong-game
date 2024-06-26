@@ -1,4 +1,6 @@
 ## Pong Game in Java
+<img src="https://github.com/dhiraj1008/pong-game/assets/94028619/93096462-00be-410e-867a-ef1d6938301a" width="710" height="360">
+
 > This is a classic Pong game implemented in Java.
 
 ### Features
